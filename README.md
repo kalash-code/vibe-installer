@@ -1,0 +1,1 @@
+# Vibe CRM installer
